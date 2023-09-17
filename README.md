@@ -1,5 +1,7 @@
 # ChatPDF Clone
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falexkuang0%2Fchatpdf&env=NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY,CLERK_SECRET_KEY,DATABASE_URL,NEXT_PUBLIC_S3_ACCESS_KEY_ID,NEXT_PUBLIC_S3_SECRET_ACCESS_KEY,NEXT_PUBLIC_S3_BUCKET_NAME,NEXT_PUBLIC_S3_REGION&envDescription=More%20environment%20variables%20examples&envLink=https%3A%2F%2Fgithub.com%2Falexkuang0%2Fchatpdf%2Fblob%2Fmain%2F.env.example&project-name=chatpdf-clone&repository-name=chatpdf-clone)
+
 A ChatPDF clone using:
 
 - Next.js 13 (App Router) in TypeScript
